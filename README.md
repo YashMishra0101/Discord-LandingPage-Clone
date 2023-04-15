@@ -1,7 +1,7 @@
-# Discord Clone Landing Page
+# Discord Landing Page Clone
 
 <img src="./images/Screenshot (254).png">
-<img src="./images/Screenshot (255).png">
+<img src="./images/Screenshot (255).png" >
 
 This is  Discord clone landing page project created using HTML and Tailwind CSS. The project aims to replicate the UI and design of the Discord messaging application's landing page, with some #Changes and Enhancements.
 
