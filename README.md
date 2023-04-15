@@ -21,7 +21,7 @@ This is  Discord clone landing page project created using HTML and Tailwind CSS.
 
 1. Clone the repository to your local machine using the following command:
 
-   git clone https://github.com/your-username/discord-clone.git
+   git clone https://github.com/YashMishra0101/Discord-LandingPage-Clone
 
 2. Navigate to the project directory in your terminal or command prompt:
 
