@@ -3,7 +3,7 @@
 <img src="./images/Screenshot (254).png">
 <img src="./images/Screenshot (255).png" >
 
-This is  Discord clone landing page project created using HTML and Tailwind CSS. The project aims to replicate the UI and design of the Discord messaging application's landing page, with some #Changes and Enhancements.
+This is  Discord clone landing page project created using HTML and Tailwind CSS. The project aims to replicate the UI and design of the Discord messaging application's landing page, with some Changes and Enhancements.
 
 ## Project Features
 
@@ -19,15 +19,15 @@ This is  Discord clone landing page project created using HTML and Tailwind CSS.
 
 ## Installation
 
-1. Clone the repository to your local machine using the following command:
+-  Clone the repository to your local machine using the following command:
 
    git clone https://github.com/YashMishra0101/Discord-LandingPage-Clone
 
-2. Navigate to the project directory in your terminal or command prompt:
+-   Note: This project uses Tailwind CSS, so you need to run npm start to compile the CSS files before opening the HTML file in your browser.
 
-   cd discord-clone
-
-3. Open the `index.html` file in your web browser to see the landing page with animations in action.
+-   To run the project locally, navigate to the project directory in your terminal and run the following command: 
+   
+    npm start
 
 ## Contributing
 
