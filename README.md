@@ -11,9 +11,9 @@ This is  Discord clone landing page project created using HTML and Tailwind CSS.
 - Animations: The project incorporates animations to enhance the visual appeal and interactivity of the landing page.
 - Responsive Design: The landing page is designed to be mobile-friendly and responsive across different devices.
 
-## 🌐 Live Demo
+## 🌐 Project Demo 
 
-You can see a live demo of the project at https://yashmishradiscordclone.netlify.app/
+To see a live demo of the project, please visit : https://yashmishradiscordclone.netlify.app/
 
 ## Technologies Used
 
