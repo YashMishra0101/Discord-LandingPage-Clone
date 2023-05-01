@@ -25,7 +25,7 @@ This is  Discord clone landing page project created using HTML and Tailwind CSS.
 
 2. Navigate to the project directory in your terminal or command prompt:
 
-cd discord-clone
+   cd discord-clone
 
 3. Open the `index.html` file in your web browser to see the landing page with animations in action.
 
@@ -44,7 +44,11 @@ If you would like to contribute to the project, please follow these steps:
 
 Your feedback is important to me! If you have any suggestions, bug reports, or other feedback, please feel free to open an issue or submit a pull request.
 
-## Contact
 
-If you have any questions or suggestions, please feel free to contact me on LinkedIn 
-https://www.linkedin.com/in/yash-mishra-356280223
+## Contact 
+
+If you have any questions or suggestions, please feel free to contact me on:
+
+- LinkedIn: https://www.linkedin.com/in/yash-mishra-356280223
+- Twitter: https://twitter.com/YashRKMishra1 
+
